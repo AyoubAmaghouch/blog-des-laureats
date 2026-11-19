@@ -1,4 +1,3 @@
-
 # Blog des Lauréats - Projet d'Imitation Niveau 3
 
 ## 1. Description du projet
