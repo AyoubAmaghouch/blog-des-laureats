@@ -42,3 +42,8 @@ Permettre aux enseignants, aux étudiants, aux anciens lauréats et aux recruteu
 |---|---|
 | Indisponibilité des contenus. | Encourager les lauréats à partager leurs articles. |
 | Non-respect des délais des sprints. | Organiser les tâches et suivre régulièrement leur avancement. |
+
+## 6. Contraintes d'Accessibilité & Ergonomie
+- Contraste visuel : Respect strict des règles de contraste (normes WCAG niveau AA).
+- Mobile-first : Ergonomie assurant une lisibilité et navigation exemplaires sur smartphones.
+- Sémantique : Balisage HTML5 sémantique garantissant le bon fonctionnement des lecteurs d'écran.
