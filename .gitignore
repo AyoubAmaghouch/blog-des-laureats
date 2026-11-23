@@ -1,0 +1,30 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Node.js
+node_modules/
+npm-debug.log*
+dist/
+build/
+
+# Composer
+/vendor/
+composer.phar
+
+# Laravel
+.env
+.env.*
+!.env.example
+/storage/*.key
+/public/storage
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
