@@ -5,10 +5,18 @@ paginate: true
 size: 16:9
 ---
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="images/ofppt.png" alt="OFPPT" style="width: 90px; height: 90px; object-fit: contain;">
+  <img src="images/solicode.png" alt="Solicode" style="width: 160px; height: 90px; object-fit: contain;">
+</div>
+
 # Comprendre l’approche Agile et Scrum
 ### Application au projet : Blog des Lauréats
 
 M5 · C.351 — Piloter un projet avec Scrum
+
+<strong>Nom de l'apprenant :</strong> Ayoub Amaghouch<br>
+<strong>Encadrant :</strong> ES-Sarraj Fouad
 
 ---
 
