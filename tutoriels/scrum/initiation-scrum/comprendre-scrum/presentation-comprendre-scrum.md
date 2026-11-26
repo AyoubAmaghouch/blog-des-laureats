@@ -11,23 +11,24 @@ size: 16:9
 </div>
 
 # Comprendre l’approche Agile et Scrum
-### Application au projet : Blog des Lauréats
+
+### Application au projet : Gestion de Véhicules V2
 
 M5 · C.351 — Piloter un projet avec Scrum
 
-<strong>Nom de l'apprenant :</strong> Ayoub Amaghouch<br>
-<strong>Encadrant :</strong> ES-Sarraj Fouad
+**Nom de l'apprenant :** Ayoub Amaghouch<br>
+**Encadrant :** ES-Sarraj Fouad
 
 ---
 
 # 1. Pourquoi l’Agilité ?
 
-**Cycle en V**
+### Cycle en V
 - Étapes successives
 - Changements tardifs coûteux
 - Validation souvent en fin de projet
 
-**Agile**
+### Agile
 - Travail par itérations courtes
 - Retours réguliers
 - Adaptation des priorités
@@ -38,10 +39,10 @@ M5 · C.351 — Piloter un projet avec Scrum
 
 # 2. Les 4 valeurs Agile
 
-1. Individus et interactions
-2. Logiciel opérationnel
-3. Collaboration avec le client
-4. Adaptation au changement
+1. **Individus et interactions** plutôt que processus et outils
+2. **Logiciel opérationnel** plutôt que documentation exhaustive
+3. **Collaboration avec le client** plutôt que négociation contractuelle
+4. **Adaptation au changement** plutôt que suivi d’un plan
 
 Les processus, outils, documents et plans restent utiles : la priorité est donnée aux éléments de gauche.
 
@@ -51,9 +52,9 @@ Les processus, outils, documents et plans restent utiles : la priorité est donn
 
 | Pilier | Signification |
 |---|---|
-| Transparence | Rendre le travail visible |
-| Inspection | Vérifier régulièrement |
-| Adaptation | Ajuster et améliorer |
+| **Transparence** | Rendre le travail visible |
+| **Inspection** | Vérifier régulièrement le travail et les résultats |
+| **Adaptation** | Ajuster et améliorer |
 
 Ces piliers permettent à l’équipe de prendre des décisions à partir de faits.
 
@@ -61,16 +62,19 @@ Ces piliers permettent à l’équipe de prendre des décisions à partir de fai
 
 # 4. Les 3 responsabilités Scrum
 
-**Product Owner**
-- Maximise la valeur
-- Ordonne les priorités
+### Product Owner
+- Maximise la valeur du produit
+- Organise et priorise le Product Backlog
+- Clarifie les besoins
 
-**Scrum Master**
-- Facilite Scrum
+### Scrum Master
+- Facilite l'application de Scrum
 - Aide à lever les obstacles
+- Favorise l'amélioration continue
 
-**Développeurs**
+### Développeurs
 - Réalisent le produit
+- Organisent leur travail
 - Livrent un incrément utilisable
 
 ---
@@ -79,7 +83,7 @@ Ces piliers permettent à l’équipe de prendre des décisions à partir de fai
 
 1. **Sprint** — période d’un mois maximum
 2. **Sprint Planning** — définir l’objectif et le plan
-3. **Daily Scrum** — synchronisation quotidienne (15 min max)
+3. **Daily Scrum** — synchronisation quotidienne (15 min maximum)
 4. **Sprint Review** — inspecter le résultat avec les parties prenantes
 5. **Sprint Retrospective** — améliorer la façon de travailler
 
@@ -87,36 +91,63 @@ Ces piliers permettent à l’équipe de prendre des décisions à partir de fai
 
 # 6. Incrément & Definition of Done
 
-**Incrément :** résultat utilisable qui s’ajoute au produit.
+### Incrément
+Résultat utilisable qui s’ajoute au produit et respecte les critères de qualité.
 
-**DoD :** critères communs pour considérer un travail terminé.
+### Definition of Done (DoD)
+Critères communs permettant de considérer un travail comme terminé.
 
-Exemples :
+**Exemples :**
 - Code intégré
 - Tests réussis
 - Fonctionnalité vérifiée
+- Gestion des erreurs
+- Fonctionnalité opérationnelle
 
 ---
 
-# 7. Exemple : Blog des Lauréats
+# 7. Exemple : Gestion de Véhicules V2
 
-**Objectif du premier Sprint :**
+### Objectif du premier Sprint
 
-Permettre aux étudiants de consulter la liste des articles publiés et d’ouvrir un article.
+**Permettre à l'utilisateur d'ajouter un véhicule et de consulter la liste des véhicules enregistrés.**
 
-- PO : priorise les fonctionnalités
-- Scrum Master : facilite et débloque
-- Développeurs : réalisent et testent
+- **Product Owner :** priorise l'ajout et l'affichage des véhicules.
+- **Scrum Master :** facilite le travail et aide à résoudre les obstacles.
+- **Développeurs :** réalisent le formulaire, l'enregistrement et l'affichage.
 
-**Incrément :** parcours de consultation fonctionnel.
+### Incrément
+
+Une application permettant d'ajouter un véhicule et de consulter la liste des véhicules.
 
 ---
 
-# 8. Conclusion
+# 8. Exemple de Sprint 1
 
-- Agile : avancer, écouter et s’adapter.
-- Scrum : transparence, inspection et adaptation.
+### Sprint Goal
+
+**Ajouter et afficher les véhicules.**
+
+### Sprint Backlog
+
+- Créer le formulaire d'ajout
+- Valider les données saisies
+- Enregistrer les informations du véhicule
+- Afficher la liste des véhicules
+- Tester les fonctionnalités
+
+### Résultat attendu
+
+Un premier incrément fonctionnel permettant d'ajouter un véhicule et de visualiser les véhicules enregistrés.
+
+---
+
+# 9. Conclusion
+
+- **Agile :** avancer, écouter et s’adapter.
+- **Scrum :** transparence, inspection et adaptation.
 - Chaque Sprint produit un incrément utilisable.
 - La DoD garantit une qualité partagée.
+- Scrum permet de développer Gestion de Véhicules V2 progressivement.
 
 ### Merci pour votre attention !

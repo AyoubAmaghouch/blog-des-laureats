@@ -52,19 +52,19 @@ Un **incrément** est une partie du produit utilisable qui s’ajoute aux préc�
 
 La **Definition of Done (DoD)** définit les critères de qualité communs pour considérer un travail terminé : code intégré, tests réussis et fonctionnalité vérifiée.
 
-## 7. Exemple appliqué au Blog des Lauréats
+## 7. Exemple appliqué au projet Gestion de Véhicules V2
 
-Le Blog des Lauréats est une plateforme qui permet aux étudiants de consulter les expériences et conseils des lauréats.
+Gestion de Véhicules V2 est une application qui permet de gérer les véhicules à travers différentes fonctionnalités, notamment l'ajout, la consultation, la modification, la suppression et la recherche de véhicules.
 
-**Objectif du premier Sprint :** permettre à un étudiant de consulter la liste des articles publiés et d’ouvrir le détail d’un article.
+**Objectif du premier Sprint :** permettre à l'utilisateur d'ajouter un véhicule et de consulter la liste des véhicules enregistrés.
 
-- **Product Owner :** priorise les besoins de consultation.
-- **Scrum Master :** facilite les événements et aide à résoudre les blocages.
-- **Développeurs :** réalisent les pages, les routes, l’accès aux données et les tests.
-- **Incrément attendu :** un parcours fonctionnel permettant d’afficher les articles publiés et de lire un article.
+- **Product Owner :** priorise les besoins liés à la gestion des véhicules.
+- **Scrum Master :** facilite les événements Scrum et aide à résoudre les blocages.
+- **Développeurs :** réalisent le formulaire, les fonctionnalités d'enregistrement, l'affichage des véhicules et les tests.
+- **Incrément attendu :** une application fonctionnelle permettant d'ajouter un véhicule et de consulter la liste des véhicules enregistrés.
 
-Les commentaires, le chat et les fonctionnalités sociales avancées ne sont pas nécessaires pour atteindre cet objectif initial.
+La modification, la suppression et la recherche avancée des véhicules pourront être développées lors des Sprints suivants, selon les priorités du Product Backlog.
 
 ## Conclusion
 
-Agile favorise la livraison progressive et l’adaptation aux changements. Scrum organise le travail grâce à trois piliers, trois responsabilités et cinq événements. Pour le Blog des Lauréats, chaque Sprint doit produire un incrément utile, testé et conforme à la Definition of Done.
+Agile favorise la livraison progressive et l’adaptation aux changements. Scrum organise le travail grâce à trois piliers, trois responsabilités et cinq événements. Pour le projet Gestion de Véhicules V2, chaque Sprint doit produire un incrément utile, testé et conforme à la Definition of Done.
